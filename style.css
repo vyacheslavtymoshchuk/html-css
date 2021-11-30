@@ -178,7 +178,7 @@ a:visited {
   width: 50%;
   margin-right: 20px;
 }
-.row > .form-group {
+.row > .form-group:last-child {
   margin-right: 0;
 }
 
